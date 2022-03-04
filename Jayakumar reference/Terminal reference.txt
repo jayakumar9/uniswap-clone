@@ -1,0 +1,10 @@
+video updated time: 0:11:01
+uniswap-clone>yarn create next-app -e with-tailwindcss client
+uniswap-clone>md studio
+uniswap-clone>md smart_contract
+// client folder for NEXT app
+//smart_contract folder for Solidity
+//studio folder for Sanity
+uniswap-clone\studio>npm install -g @Sanity/cli
+//npm install -g npm@8.5.3 
+uniswap-clone\studio>sanity init --coupon cleverprogrammer
